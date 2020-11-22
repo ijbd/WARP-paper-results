@@ -6,12 +6,12 @@ import os
 
 #TO USE MANUAL: replace values for specific region (uses MERRA assumptions of lat being space .5 and lon being spaced .625)
 
-#bounds for WECC region
+#bounds for WECC region full resolution
 
-minLon = -124.375
+minLon = -125
 maxLon = -101.875
-minLat = 32
-maxLat = 49
+minLat = 31.5
+maxLat = 49.5
 
 #bounds for entire US
 '''
